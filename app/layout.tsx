@@ -40,17 +40,10 @@ export const metadata: Metadata = {
     description: 'I build modern, responsive, and scalable web applications using modern technologies.',
   },
   icons: {
-  icon: [
-    {
-      url: '/favicon.ico',
-    },
-    {
-      url: '/icon.svg',
-      type: 'image/svg+xml',
-    },
-  ],
+  icon: '/favicon.ico',
   apple: '/apple-touch-icon.png',
 },
+
 
 
 export const viewport: Viewport = {

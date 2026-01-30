@@ -54,7 +54,7 @@ export function Hero() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <Button asChild size="lg" className="gap-2 min-w-[180px]">
-              <a href="/cv.pdf" download>
+              <a href="/CV.pdf" download>
                 <Download className="h-4 w-4" />
                 {t("hero.downloadCV")}
               </a>

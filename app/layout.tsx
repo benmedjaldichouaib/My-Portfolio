@@ -40,24 +40,18 @@ export const metadata: Metadata = {
     description: 'I build modern, responsive, and scalable web applications using modern technologies.',
   },
   icons: {
-    icon: [
-      {
-        url: '/public/apple-touch-icon.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/public/apple-touch-icon.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/public/apple-touch-icon.png',
-  },
-    generator: 'v0.app'
-}
+  icon: [
+    {
+      url: '/favicon.ico',
+    },
+    {
+      url: '/icon.svg',
+      type: 'image/svg+xml',
+    },
+  ],
+  apple: '/apple-touch-icon.png',
+},
+
 
 export const viewport: Viewport = {
   themeColor: '#1a1a2e',

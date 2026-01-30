@@ -54,7 +54,7 @@ export const metadata: Metadata = {
         type: 'image/svg+xml',
       },
     ],
-    apple: '/apple-touch-icon.png',
+    apple: '/public/apple-touch-icon.png',
   },
     generator: 'v0.app'
 }

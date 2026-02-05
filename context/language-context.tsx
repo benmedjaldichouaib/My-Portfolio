@@ -48,6 +48,8 @@ const translations = {
     "projects.project4.description":"Tool to compress images with easy size control.",
     "projects.project5.title": "Telegram AI ChatBot",
     "projects.project5.description":"Smart Telegram bot for chatting and responding like GPT.",
+     "projects.project6.title": "Telegram Shop Bot",
+    "projects.project6.description":"E-commerce Telegram bot for browsing products, cart, and order management.",
     "projects.viewCode": "View Code",
     "projects.liveDemo": "Live Demo",
     
@@ -94,6 +96,8 @@ const translations = {
     "projects.project4.description":"أداة لضغط الصور مع التحكم في الحجم بسهولة.",
     "projects.project5.title": "Telegram AI Chat Bot",
     "projects.project5.description":"بوت تيليغرام ذكي للتحدث والرد مثل GPT.",
+    "projects.project6.title": "بوت متجر تيليغرام",
+    "projects.project6.description":"بوت متجر على تيليغرام لتصفح المنتجات وإدارة الطلبات والسلة.",
     
     "projects.viewCode": "عرض الكود",
     "projects.liveDemo": "معاينة مباشرة",

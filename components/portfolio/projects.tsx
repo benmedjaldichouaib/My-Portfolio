@@ -43,6 +43,13 @@ export function Projects() {
       github: "https://github.com/benmedjaldichouaib/Tel_bot1",
       demo: "https://tel-bot1-0zu9.onrender.com",
     },
+    {
+      title: t("projects.project6.title"),
+      description: t("projects.project6.description"),
+      tags: ["Python", "Telegram Bot", "E-commerce", "SQLite", "Automation"],
+      github: "https://github.com/benmedjaldichouaib/Tel_Shop_bot",
+      demo: "https://web.telegram.org/k/#@Chouaibshop19_bot",
+    },
   ]
 
   return (

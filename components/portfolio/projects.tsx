@@ -51,7 +51,7 @@ export function Projects() {
       demo: "https://web.telegram.org/k/#@Chouaibshop19_bot",
     },
     {
-      title: t("projects.project7.title"),
+      title: t("projects.project8.title"),
       description: t("projects.project7.description"),
       tags: ["SaaS", "Full Stack", "Clinic Management", "Supabase", "Vercel", "Dashboard", "Cloud App"],
       github: "https://github.com/benmedjaldichouaib/clinic-facile-dz",

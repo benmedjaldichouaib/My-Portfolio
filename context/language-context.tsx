@@ -48,7 +48,7 @@ const translations = {
     "projects.project4.description":"Tool to compress images with easy size control.",
     "projects.project5.title": "Telegram AI ChatBot",
     "projects.project5.description":"Smart Telegram bot for chatting and responding like GPT.",
-     "projects.project6.title": "Telegram Shop Bot",
+    "projects.project6.title": "Telegram Shop Bot",
     "projects.project6.description":"E-commerce Telegram bot for browsing products, cart, and order management.",
     "projects.project7.title": "ClinicFacile DZ – Clinic Management SaaS",
     "projects.project7.description": "A lightweight clinic management web app that helps doctors manage patients, appointments, invoices, and daily revenue through a simple dashboard.",
@@ -101,8 +101,8 @@ const translations = {
     "projects.project5.description":"بوت تيليغرام ذكي للتحدث والرد مثل GPT.",
     "projects.project6.title": "بوت متجر تيليغرام",
     "projects.project6.description":"بوت متجر على تيليغرام لتصفح المنتجات وإدارة الطلبات والسلة.",
-    "projects.project7.title_ar": "كلينيك فاسيل DZ – نظام تسيير العيادات",
-    "projects.project7.description_ar": "تطبيق ويب خفيف لتسيير العيادات الصغيرة، يتيح إدارة المرضى، المواعيد، الفواتير، وتتبع المداخيل اليومية عبر لوحة تحكم بسيطة وسهلة الاستخدام."
+    "projects.project7.title": "كلينيك فاسيل DZ – نظام تسيير العيادات",
+    "projects.project7.description": "تطبيق ويب خفيف لتسيير العيادات الصغيرة، يتيح إدارة المرضى، المواعيد، الفواتير، وتتبع المداخيل اليومية عبر لوحة تحكم بسيطة وسهلة الاستخدام."
     
     "projects.viewCode": "عرض الكود",
     "projects.liveDemo": "معاينة مباشرة",

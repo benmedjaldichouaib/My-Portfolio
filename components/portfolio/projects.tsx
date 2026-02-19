@@ -50,6 +50,13 @@ export function Projects() {
       github: "https://github.com/benmedjaldichouaib/Tel_Shop_bot",
       demo: "https://web.telegram.org/k/#@Chouaibshop19_bot",
     },
+    {
+      title: t("projects.project7.title"),
+      description: t("projects.project7.description"),
+      tags: ["SaaS", "Full Stack", "Clinic Management", "Supabase", "Vercel", "Dashboard", "Cloud App"],
+      github: "https://github.com/benmedjaldichouaib/clinic-facile-dz",
+      demo: "https://clinic-facile-dz.lovable.app/",
+    },
   ]
 
   return (
